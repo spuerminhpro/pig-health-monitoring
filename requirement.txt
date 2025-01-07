@@ -1,0 +1,19 @@
+﻿flask
+numpy==1.23.5
+pandas
+scipy
+matplotlib
+seaborn
+opencv-python
+pillow
+streamlit
+tensorflow==2.17.0
+tensorflow-estimator
+tensorflow-intel
+torch --index-url https://download.pytorch.org/whl/cu124
+torchvision --index-url https://download.pytorch.org/whl/cu124
+torchaudio --index-url https://download.pytorch.org/whl/cu124
+ultralytics
+protobuf==4.25.5
+pyyaml==6.0.2
+typing_extensions
